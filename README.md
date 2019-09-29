@@ -1,2 +1,9 @@
 # bookPlusPlus
-Read with style
+Read with style: advanced reading platform to quickly gather the information you are looking for. 
+## download word embedding model 
+https://github.com/eyaler/word2vec-slim
+## python requirements
+nltk
+numpy
+num2words
+gensim
